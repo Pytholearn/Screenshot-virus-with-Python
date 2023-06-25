@@ -1,5 +1,4 @@
-Screen-Recorder
-Screen Recorder with python First install the libraries:
+Screenshot virus with python First install the libraries:
 
 >pip install pyautogui
 
