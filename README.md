@@ -1,2 +1,10 @@
-# Screenshot-virus-with-Python.
-take a screen shot &amp; send to target email with python
+Screen-Recorder
+Screen Recorder with python First install the libraries:
+
+>pip install pyautogui
+
+Discord: https://discord.gg/xbN3XSHYjx
+
+YouTube https://www.youtube.com/channel/UCFhRw24axi5gfa7ZLVe49_w
+
+Made by : HaZaRd#4058
